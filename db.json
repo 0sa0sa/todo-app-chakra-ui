@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Create React appをインストール",
+      "done": true
+    },
+    {
+      "id": 2,
+      "content": "JSON Server仮のAPIを作成",
+      "done": false
+    },
+    {
+      "id": 3,
+      "content": "Chakra UIをインストール",
+      "done": false
+    },
+    {
+      "content": "www",
+      "id": "01FKAMHP9GXB194ZHB1WGKBK6Z",
+      "done": false
+    },
+    {
+      "content": "eee",
+      "id": "01FKAMJ3DPMQ01WDDBN0641DSW",
+      "done": false
+    },
+    {
+      "content": "こっちがref",
+      "id": "01FKAMTHGJ5YPRD125QNM6SKJC",
+      "done": false
+    },
+    {
+      "content": "ge",
+      "id": "01FKAQ0GG32PZM9CSKT1CZ4KRS",
+      "done": false
+    }
+  ]
+}
